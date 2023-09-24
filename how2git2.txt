@@ -1,4 +1,5 @@
 git init
+힌트: Using 'master' as the name for the initial branch. This default branch name
 힌트: is subject to change. To configure the initial branch name to use in all
 of your new repositories, which will suppress this warning, call:
 힌트: 
